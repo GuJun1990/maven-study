@@ -55,5 +55,6 @@ pom.xml 添加如下配置
 </build>
 ```
 编译的时候指定环境。
+
 `mvn clean package -P dev|pro`
 
